@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="htu_navy">#06214A</color>
+    <color name="htu_blue">#123E73</color>
+    <color name="htu_gold">#F5B400</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#111827</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+
+    <color name="input_bg">#F9FAFB</color>
+    <color name="input_border">#E5E7EB</color>
+    <color name="error_red">#DC2626</color>
+</resources>
